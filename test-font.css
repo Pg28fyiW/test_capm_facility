@@ -14,8 +14,8 @@ body {
 
 /* ❌ 明朝になりやすい例 */
 .test-bad {
-  /* font-family: "Noto Sans JP"; */
-  font-family: "Noto Sans Japanese";
+  /* font-family: "Noto Sans Japanese"; */
+  font-family: "Noto Sans JP";
   font-weight: 900;
   border: 2px solid red;
 }
