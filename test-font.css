@@ -21,9 +21,9 @@ body {
 
 /* ❌ 明朝になりやすい例 */
 .test-bad2 {
-  font-family: "Hiragino Kaku Gothic ProN";
-  font-weight: 900;
   border: 2px solid yellow;
+  font-weight: 900;
+  font-family: "Hiragino Kaku Gothic ProN";
 }
 
 
